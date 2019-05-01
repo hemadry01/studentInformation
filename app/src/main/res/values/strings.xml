@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StudentDetails</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel_button">Cancel_button</string>
+    <string name="update_button">Update_button</string>
+    <string name="subject_credit">Subject_credit</string>
+    <string name="subject_code">Subject_code</string>
+    <string name="subject_name">Subject_name</string>
+    <string name="create_button">Create_button</string>
+    <string name="update">Update</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="registration_no">Registration_no</string>
+    <string name="student_name">Student_name</string>
+    <string name="empty_list_message">Empty_list_message</string>
+    <string name="database_summary">Database_summary</string>
+    <string name="registration_no_with_color">Registration_no_with_color</string>
+    <string name="name">Name</string>
+    <string name="student_information">Student_information</string>
+    <string name="edit_button_description">Edit_button_description</string>
+    <string name="cross_image_content_description">Cross_image_content_description</string>
+    <string name="all_delete">All_delete</string>
+    <string name="add_new_subject">Add New Subject</string>
+
+</resources>
